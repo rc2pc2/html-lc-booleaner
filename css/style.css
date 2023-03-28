@@ -1,0 +1,65 @@
+header{
+    background-color: #4e9ffe;
+    background-image: url('../img/pattern.png');
+    height: 120px;
+    background-size: 60%;
+}
+
+#header-logo{
+    margin-top: 60px;
+    height: 65px;
+}
+
+h1{
+    font-size: 2.5rem;
+}
+
+table{
+    border-collapse: collapse;
+}
+
+thead{
+    text-align: left;
+}
+
+.text-gray{
+    color: rgb(172, 172, 172);
+}
+
+.text-blue{
+    color: #4e9ffe;
+}
+
+.text-smaller{
+    font-size: .55rem;
+}
+
+.bg-blue{
+    background-color: #4e9ffe;
+    color: white;
+}
+
+.bg-light-blue{
+    background-color: #b0e4f1;
+}
+
+.width-50{
+    width: 50%;
+}
+
+.box{
+    height: 220px;
+    width: 300px;
+    /* background-color: blue; */
+    /* border: 2px magenta solid; */
+    color: white    ;
+    font-size: 1.5rem;
+}
+
+.box-monitor{
+    background-image: url('../img/monitor.jpg');
+}
+
+.box-graph{
+    background-image: url('../img/graph.jpg');
+}
